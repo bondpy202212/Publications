@@ -10,7 +10,7 @@
 
 3. Пат. 98644 Україна, МПК B64C 27/72. Лопать несучого гвинта /Є.П. Ударцев,  О.В. Бондар, O.Р. Давидов; заявник та патентовласник Національний авіаційний ун-т. - №201404085; Заявл. 16.04.2014; Опубл. 12.05.2015, Бюл. №9. – 4 с.\
   language: Ukrainian\
-  title in English: [Patent 98644 Ukraine, IPC B64C 27/72. Rotor blade / Ye.P. Udartsev, O.V. Bondar, O.R. Davidov; applicant and patent holder National Aviation University. - No. 201404085; Filed 16.04.2014; Published 12.05.2015, Bulletin No. 9. - 4 p](https://uapatents.com/5-98644-lopat-nesuchogo-gvinta.html)\
+  title in English: [Patent 98644 Ukraine, IPC B64C 27/72. Rotor blade / Ye.P. Udartsev, O.V. Bondar, O.R. Davidov; applicant and patent holder National Aviation University. - No. 201404085; Filed 16.04.2014; Published 12.05.2015, Bulletin No. 9. - 4 p](https://uapatents.com/5-98644-lopat-nesuchogo-gvinta.html)
 
 
    
@@ -33,9 +33,34 @@
   language: Ukrainian\
   title in English: [Ishchenko S.O. Multi system measurement of aerodynamic loads. / Bondar O.V. // Proceedings of the National Aviation University- Kyiv: National Aviation University,   - 2009. - No. 2. - p. 8-16.](https://doi.org/10.18372/2306-1472.39.1701)
 6. [Udartsev.I.  Parametric analysis of longitudinal stability unmanned aerial vehicle. / Bondar.O., Plakhotniuk.I // Proceedings of the National Aviation University - Kyiv: National Aviation University,  - 2013. - No. 3. - p. 22-28.](https://doi.org/10.18372/2306-1472.56.5411)
-7. [Udartsev. I.  Navigation range and duration of flight of unmanned aerial vehicle. / Bondar. O., Plakhotniuk. I // Proceedings of the National Aviation University - Kyiv: National Aviation University,   - 2014. - No. 3. - p. 33-42.](https://jrnl.nau.edu.ua/index.php/visnik/article/view/7562)\
+7. [Udartsev. I.  Navigation range and duration of flight of unmanned aerial vehicle. / Bondar. O., Plakhotniuk. I // Proceedings of the National Aviation University - Kyiv: National Aviation University,   - 2014. - No. 3. - p. 33-42.](https://jrnl.nau.edu.ua/index.php/visnik/article/view/7562)
 
 
 
-**Patents:**
-1.
+**Conference presentation abstracts:**
+1. Бондар О.В. Дослідження впливу профілю лопаті несучого гвинта на аеродинамічні характеристики ротора автожиру / О.В. Бондар, С.О. Іщенко, С.П. Галицький // ПОЛІТ-2005: V міжнародна науково-практична конференція молодих учених і студентів, 12-13 квітня 2005 р.: тези доповіді – К.: Національній авіаційний університет - 2005.- С. 8\
+  language: Ukrainian\
+  title in English: [Bondar O.V. Research on the influence of the blade profile of the autogyro rotor on the aerodynamic characteristics / O.V. Bondar, S.O. Ishchenko, S.P. Halitsky // POLYT-2005: V International Scientific and Practical Conference of Young Scientists and Students, April 12-13, 2005: abstracts of the report - Kyiv: National Aviation University - 2005. - P. 8]
+
+2. 0
+
+3. 3
+
+4. 4
+
+5. 5
+
+6. 6
+
+7. 7
+
+8. 8
+
+9. 9
+
+10. 10
+
+11. 11
+12. 3
+13. 
+
