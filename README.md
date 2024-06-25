@@ -4,7 +4,9 @@
 1. Пат. 52913 Україна, МПК G01M 9/00. Пристрій для визначення поля індуктивних швидкостей несучого гвинта в аеродинамічній трубі/ О. В. Бондар, O. Р. Давидов, С. О. Іщенко; заявник та патентовласник Національний авіаційний ун-т.  - №201004421; Заявл. 16.04.2010; Опубл. 10.09.2010, Бюл. №17. – 3 с.\
   language: Ukrainian\
   title in English: [Patent 52913 Ukraine, IPC G01M 9/00. Device for determination of field of inductive rates of carrying propeller in aerodynamic tube/ O. V. Bondar, O. R. Davidov, S. O. Ishchenko; applicant and patent holder National Aviation University. - No. 201004421; Filed 16.04.2010; Published 10.09.2010, Bulletin No. 17. - 3 p.)](https://uapatents.com/3-52913-pristrijj-dlya-viznachennya-polya-induktivnikh-shvidkostejj-nesuchogo-gvinta-v-aerodinamichnijj-trubi.html)
-2. 0
+2. Пат. 94188 Україна, МПК G01M 9/00. Пристрій для визначення поля індуктивних швидкостей несучого гвинта в аеродинамічній трубі/ О. В. Бондар, O. Р. Давидов, С. О. Іщенко; заявник та патентовласник Національний авіаційний ун-т. - №201312116; Заявл. 16.10.2013; Опубл. 10.11.2014, Бюл. №21. – 7 с.\
+  language: Ukrainian\
+  title in English: [Patent 94188 Ukraine, IPC G01M 9/00. Device for determining the field of inductive velocities of a rotor blade in an aerodynamic tube / O. V. Bondar, O. R. Davidov, S. O. Ishchenko; applicant and patent holder National Aviation University. - No. 201312116; Filed 16.10.2013; Published 10.11.2014, Bulletin No. 21. - 7 p.](https://uapatents.com/8-94188-pristrijj-dlya-viznachennya-polya-induktivnikh-shvidkostejj-nesuchogo-gvinta-v-aerodinamichnijj-trubi.html)
 
 3. 3
 
