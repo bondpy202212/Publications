@@ -8,7 +8,9 @@
   language: Ukrainian\
   title in English: [Patent 94188 Ukraine, IPC G01M 9/00. Device for determining the field of inductive velocities of a rotor blade in an aerodynamic tube / O. V. Bondar, O. R. Davidov, S. O. Ishchenko; applicant and patent holder National Aviation University. - No. 201312116; Filed 16.10.2013; Published 10.11.2014, Bulletin No. 21. - 7 p.](https://uapatents.com/8-94188-pristrijj-dlya-viznachennya-polya-induktivnikh-shvidkostejj-nesuchogo-gvinta-v-aerodinamichnijj-trubi.html)
 
-3. 3
+3. Пат. 98644 Україна, МПК B64C 27/72. Лопать несучого гвинта /Є.П. Ударцев,  О.В. Бондар, O.Р. Давидов; заявник та патентовласник Національний авіаційний ун-т. - №201404085; Заявл. 16.04.2014; Опубл. 12.05.2015, Бюл. №9. – 4 с.\
+  language: Ukrainian\
+  title in English: [Patent 98644 Ukraine, IPC B64C 27/72. Rotor blade / Ye.P. Udartsev, O.V. Bondar, O.R. Davidov; applicant and patent holder National Aviation University. - No. 201404085; Filed 16.04.2014; Published 12.05.2015, Bulletin No. 9. - 4 p](https://uapatents.com/5-98644-lopat-nesuchogo-gvinta.html)
 
 
    
