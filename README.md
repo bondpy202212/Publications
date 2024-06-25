@@ -10,7 +10,7 @@
 
 3. Пат. 98644 Україна, МПК B64C 27/72. Лопать несучого гвинта /Є.П. Ударцев,  О.В. Бондар, O.Р. Давидов; заявник та патентовласник Національний авіаційний ун-т. - №201404085; Заявл. 16.04.2014; Опубл. 12.05.2015, Бюл. №9. – 4 с.\
   language: Ukrainian\
-  title in English: [Patent 98644 Ukraine, IPC B64C 27/72. Rotor blade / Ye.P. Udartsev, O.V. Bondar, O.R. Davidov; applicant and patent holder National Aviation University. - No. 201404085; Filed 16.04.2014; Published 12.05.2015, Bulletin No. 9. - 4 p](https://uapatents.com/5-98644-lopat-nesuchogo-gvinta.html)
+  title in English: [Patent 98644 Ukraine, IPC B64C 27/72. Rotor blade / Ye.P. Udartsev, O.V. Bondar, O.R. Davidov; applicant and patent holder National Aviation University. - No. 201404085; Filed 16.04.2014; Published 12.05.2015, Bulletin No. 9. - 4 p](https://uapatents.com/5-98644-lopat-nesuchogo-gvinta.html)\
 
 
    
@@ -33,6 +33,9 @@
   language: Ukrainian\
   title in English: [Ishchenko S.O. Multi system measurement of aerodynamic loads. / Bondar O.V. // Proceedings of the National Aviation University- Kyiv: National Aviation University,   - 2009. - No. 2. - p. 8-16.](https://doi.org/10.18372/2306-1472.39.1701)
 6. [Udartsev.I.  Parametric analysis of longitudinal stability unmanned aerial vehicle. / Bondar.O., Plakhotniuk.I // Proceedings of the National Aviation University - Kyiv: National Aviation University,  - 2013. - No. 3. - p. 22-28.](https://doi.org/10.18372/2306-1472.56.5411)
-7. [Udartsev. I.  Navigation range and duration of flight of unmanned aerial vehicle. / Bondar. O., Plakhotniuk. I // Proceedings of the National Aviation University - Kyiv: National Aviation University,   - 2014. - No. 3. - p. 33-42.](https://jrnl.nau.edu.ua/index.php/visnik/article/view/7562)
+7. [Udartsev. I.  Navigation range and duration of flight of unmanned aerial vehicle. / Bondar. O., Plakhotniuk. I // Proceedings of the National Aviation University - Kyiv: National Aviation University,   - 2014. - No. 3. - p. 33-42.](https://jrnl.nau.edu.ua/index.php/visnik/article/view/7562)\
 
 
+
+**Patents:**
+1.
