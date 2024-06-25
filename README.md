@@ -42,9 +42,13 @@
   language: Ukrainian\
   title in English: [Bondar O.V. Research on the influence of the blade profile of the autogyro rotor on the aerodynamic characteristics / O.V. Bondar, S.O. Ishchenko, S.P. Halitsky // POLYT-2005: V International Scientific and Practical Conference of Young Scientists and Students, April 12-13, 2005: abstracts of the report - Kyiv: National Aviation University - 2005. - P. 8]()
 
-2. 0
+2. Бондар О.В. Дослідження стійкості автожиру різних аеродинамічних компонованих систем / О.В. Бондар, С.О. Іщенко, С.П. Галицький // ПОЛІТ-2005: V міжнародна науково-практична конференція молодих учених і студентів, 12-13 квітня 2005 р.: тези доповіді – К.: Національній авіаційний університет - 2005.- С. 9\
+  language: Ukrainian\
+  title in English: [Bondar O.V. Research on the stability of autogyro with various aerodynamic compound systems / O.V. Bondar, S.O. Ishchenko, S.P. Halitsky // POLYT-2005: V International Scientific and Practical Conference of Young Scientists and Students, April 12-13, 2005: abstracts of the report - Kyiv: National Aviation University - 2005. - P. 9]()
 
-3. 3
+3. Бондар О.В. Дослідження динаміки роботи ротора автожиру / О.В. Бондар// ПОЛІТ-2006: VІ міжнародна науково-практична конференція молодих учених і студентів, 11-12 квітня 2006 р.: тези доповіді – К.: Національній авіаційний університет -  2006.- С. 12\
+  language: Ukrainian\
+  title in English: [Bondar O.V. Research on the dynamics of autogyro rotor operation / O.V. Bondar // POLYT-2006: VI International Scientific and Practical Conference of Young Scientists and Students, April 11-12, 2006: abstracts of the report - Kyiv: National Aviation University - 2006. - P. 12](https://github.com/bondpy202212/publications/blob/main/conference/Polit_2006_.pdf)
 
 4. 4
 
