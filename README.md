@@ -40,7 +40,7 @@
 **Conference presentation abstracts:**
 1. Бондар О.В. Дослідження впливу профілю лопаті несучого гвинта на аеродинамічні характеристики ротора автожиру / О.В. Бондар, С.О. Іщенко, С.П. Галицький // ПОЛІТ-2005: V міжнародна науково-практична конференція молодих учених і студентів, 12-13 квітня 2005 р.: тези доповіді – К.: Національній авіаційний університет - 2005.- С. 8\
   language: Ukrainian\
-  title in English: [Bondar O.V. Research on the influence of the blade profile of the autogyro rotor on the aerodynamic characteristics / O.V. Bondar, S.O. Ishchenko, S.P. Halitsky // POLYT-2005: V International Scientific and Practical Conference of Young Scientists and Students, April 12-13, 2005: abstracts of the report - Kyiv: National Aviation University - 2005. - P. 8]
+  title in English: [Bondar O.V. Research on the influence of the blade profile of the autogyro rotor on the aerodynamic characteristics / O.V. Bondar, S.O. Ishchenko, S.P. Halitsky // POLYT-2005: V International Scientific and Practical Conference of Young Scientists and Students, April 12-13, 2005: abstracts of the report - Kyiv: National Aviation University - 2005. - P. 8]()
 
 2. 0
 
