@@ -18,7 +18,7 @@
   language: Ukrainian\
   title in English: [Ishchenko S.O. Multi system measurement of aerodynamic loads. / Bondar O.V. // Proceedings of the National Aviation University- Kyiv: National Aviation University,   - 2009. - No. 2. - p. 8-16.](https://doi.org/10.18372/2306-1472.39.1701)
 6. [Udartsev.I.  Parametric analysis of longitudinal stability unmanned aerial vehicle. / Bondar.O., Plakhotniuk.I // Proceedings of the National Aviation University - Kyiv: National Aviation University,  - 2013. - No. 3. - p. 22-28.](https://doi.org/10.18372/2306-1472.56.5411)
-7. 0
+7. [Udartsev. I.  Navigation range and duration of flight of unmanned aerial vehicle. / Bondar. O., Plakhotniuk. I // Proceedings of the National Aviation University - Kyiv: National Aviation University,   - 2014. - No. 3. - p. 33-42.](https://jrnl.nau.edu.ua/index.php/visnik/article/view/7562)
 8. 0
 9. 0
 10. 0
