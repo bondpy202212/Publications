@@ -17,7 +17,7 @@
 5. Іщенко С.О. Багатокомпонентна система вимірювання аеродинамічних навантажень. / Бондар О.В.// Вісник Національного авіаційного університету  – К.: Національній авіаційний університет, - 2009. - №2. – С. 8 – 16.\
   language: Ukrainian\
   title in English: [Ishchenko S.O. Multi system measurement of aerodynamic loads. / Bondar O.V. // Proceedings of the National Aviation University- Kyiv: National Aviation University,   - 2009. - No. 2. - p. 8-16.](https://doi.org/10.18372/2306-1472.39.1701)
-6. 0
+6. [Udartsev.I.  Parametric analysis of longitudinal stability unmanned aerial vehicle. / Bondar.O., Plakhotniuk.I // Proceedings of the National Aviation University - Kyiv: National Aviation University,  - 2013. - No. 3. - p. 22-28.](https://doi.org/10.18372/2306-1472.56.5411)
 7. 0
 8. 0
 9. 0
