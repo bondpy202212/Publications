@@ -50,7 +50,9 @@
   language: Ukrainian\
   title in English: [Bondar O.V. Research on the dynamics of autogyro rotor operation / O.V. Bondar // POLYT-2006: VI International Scientific and Practical Conference of Young Scientists and Students, April 11-12, 2006: abstracts of the report - Kyiv: National Aviation University - 2006. - P. 12](https://github.com/bondpy202212/publications/blob/main/conference/Polit_2006_.pdf)
 
-4. 4
+4. Іщенко С.О. Модель несучого гвинта, що знаходиться в стані авторотації, безпілотного літального апарату типу «автожир» / С.О. Іщенко, О.В. Бондар// Науково-практична конференція: “ Актуальні проблеми розвитку авіаційної техніки ”, 19-20 червня 2008 р.: тези доповіді – К.: Військовий інститут Київського національного університету імені Тараса Шевченка -  2008.- С. 12\
+  language: Ukrainian\
+  title in English: [Ishchenko S.O. Model of an autorotating bearing screw of an unmanned aerial vehicle of the "autogyro" type / S.O. Ishchenko, O.V. Bondar // Scientific and Practical Conference: "Current Problems of Aircraft Development", June 19-20, 2008: abstracts of the report - Kyiv: Military Institute of Kyiv National Taras Shevchenko University - 2008. - P. 12](https://github.com/bondpy202212/publications/blob/main/conference/VIKNU_2008_.pdf)
 
 5. 5
 
