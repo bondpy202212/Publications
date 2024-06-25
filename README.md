@@ -7,7 +7,11 @@
 3. Іщенко С.О. Оптимізація геометричних характеристик профілю лопаті несучого гвинта автожиру./ Бондар О.В., Галицький С.П.  // Вісник Національного авіаційного університету – К.: Національній авіаційний університет, - 2005. - №4. – С. 55 – 49.\
   language: Ukrainian\
   title in English: [Ishchenko S.O. Optimization of geometrical characteristics of a structure of the profile of the carrying airscrew of autogyro. / Bondar O.V., Halytsky S.P. // Proceedings of the National Aviation University - Kyiv: National Aviation University, - 2005. - No. 4. - p. 55-49.](https://doi.org/10.18372/2306-1472.26.1247)
-4. 0
+4. Переверзєв А.М. Модифікація аеродинамічних профілів для зменшення впливу нестаціонарності. / Бондар О.В.,  Пашинський Т.Е. // Вісник Національного авіаційного університету – К.: Національній авіаційний університет,  - 2008. - №3. – С. 39 – 43.\
+  language: Ukrainian\
+  title in English: [Pereverziev A.M. Modification of the aerodynamic profile to reduce the impact of non-stationary. / Bondar O.V., Pashynsky T.E. // Proceedings of the National Aviation University - Kyiv: National Aviation University,  - 2008. - No. 3. - p. 39-43.](https://doi.org/10.18372/2306-1472.36.1587)
+
+
 5. 0
 6. 0
 7. 0
