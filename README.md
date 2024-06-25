@@ -10,11 +10,13 @@
 3. Переверзєв А.М. Модифікація аеродинамічних профілів для зменшення впливу нестаціонарності. / Бондар О.В.,  Пашинський Т.Е. // Вісник Національного авіаційного університету – К.: Національній авіаційний університет,  - 2008. - №3. – С. 39 – 43.\
   language: Ukrainian\
   title in English: [Pereverziev A.M. Modification of the aerodynamic profile to reduce the impact of non-stationary. / Bondar O.V., Pashynsky T.E. // Proceedings of the National Aviation University - Kyiv: National Aviation University,  - 2008. - No. 3. - p. 39-43.](https://doi.org/10.18372/2306-1472.36.1587)
-4. Іщенко С.О. Экспериментальные исследования состояния пограничного слоя, возмущенного генератором вихрей. / Бондар О.В.,  Аббас Фадиль Махмуд  // Системи озброєння і військова техніка – Х: Харківський національний університет Повітряних Сил імені Івана Кожедуба - 2008. - №3. – С. 104 – 109ю.\
+4. Іщенко С.О. Экспериментальные исследования состояния пограничного слоя, возмущенного генератором вихрей. / Бондар О.В.,  Аббас Фадиль Махмуд  // Системи озброєння і військова техніка – Х: Харківський національний університет Повітряних Сил імені Івана Кожедуба - 2008. - №3. – С. 104 – 109.\
   language: Ukrainian\
   title in English: [Ishchenko S.O. Experimental studies of the state of the boundary layer perturbed by a vortex generator. / Bondar O.V., Abbas Fadil Mahmud // Systems of Arms and Military Equipment - Kharkiv: Kharkiv Air Force University named after Ivan Kozhedub - 2008. - No. 3. - p. 104-109.](http://nbuv.gov.ua/UJRN/soivt_2008_3_29)
 
-5. 0
+5. Іщенко С.О. Багатокомпонентна система вимірювання аеродинамічних навантажень. / Бондар О.В.// Вісник Національного авіаційного університету  – К.: Національній авіаційний університет, - 2009. - №2. – С. 8 – 16.\
+  language: Ukrainian\
+  title in English: [Ishchenko S.O. Multi system measurement of aerodynamic loads. / Bondar O.V. // Proceedings of the National Aviation University- Kyiv: National Aviation University,   - 2009. - No. 2. - p. 8-16.](https://doi.org/10.18372/2306-1472.39.1701)
 6. 0
 7. 0
 8. 0
