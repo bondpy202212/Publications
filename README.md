@@ -1,4 +1,15 @@
-**My publications: scientific articles 7 pcs, patents 3 pcs, conference presentation abstracts 11 pcs.**
+**My publications: patents 3 pcs, scientific articles 7 pcs, conference presentation abstracts 11 pcs.**
+
+**Patents:**
+1. Пат. 52913 Україна, МПК G01M 9/00. Пристрій для визначення поля індуктивних швидкостей несучого гвинта в аеродинамічній трубі/ О. В. Бондар, O. Р. Давидов, С. О. Іщенко; заявник та патентовласник Національний авіаційний ун-т.  - №201004421; Заявл. 16.04.2010; Опубл. 10.09.2010, Бюл. №17. – 3 с.\
+  language: Ukrainian\
+  title in English: [Patent 52913 Ukraine, IPC G01M 9/00. Device for determination of field of inductive rates of carrying propeller in aerodynamic tube/ O. V. Bondar, O. R. Davidov, S. O. Ishchenko; applicant and patent holder National Aviation University. - No. 201004421; Filed 16.04.2010; Published 10.09.2010, Bulletin No. 17. - 3 p.)](https://uapatents.com/3-52913-pristrijj-dlya-viznachennya-polya-induktivnikh-shvidkostejj-nesuchogo-gvinta-v-aerodinamichnijj-trubi.html)
+2. 0
+
+3. 3
+
+
+   
 
 **Scientific articles:**
 1. Чоха Ю.М. Методика прогнозування технічного стану вузлів ГТД в умовах експлуатації / Бондар О.В., Галицький С.П. // Збірник наукових праць. – К.: Науковий центр повітряних сил збройних сил України, 2004. - №7. – с. 251–258.\
@@ -21,7 +32,3 @@
 7. [Udartsev. I.  Navigation range and duration of flight of unmanned aerial vehicle. / Bondar. O., Plakhotniuk. I // Proceedings of the National Aviation University - Kyiv: National Aviation University,   - 2014. - No. 3. - p. 33-42.](https://jrnl.nau.edu.ua/index.php/visnik/article/view/7562)
 
 
-**Patents:**
-1. 0
-2. 0
-3. 0
